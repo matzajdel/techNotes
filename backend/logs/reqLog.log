@@ -101,3 +101,13 @@
 20240815	22:17:43	a863c3b1-3da7-4d7c-9a2f-6ea69361dad3	GET	/notes	http://localhost:3000
 20240815	22:22:29	49e68e0a-d39b-44d5-8afd-db46bf4f7cf1	GET	/notes	http://localhost:3000
 20240815	22:25:06	d4312f40-e93f-4219-a8df-b272a2a566fa	GET	/notes	http://localhost:3000
+20240819	13:33:13	66b3728f-89a7-4964-9633-0abfe34adff7	GET	/notes	http://localhost:3000
+20240819	13:33:16	8d6a42be-cfdc-481e-a4ce-cab347fdae5e	GET	/users	http://localhost:3000
+20240819	15:34:57	959debbd-08bd-43a3-aac7-6c2b66a5ea2e	GET	/users	http://localhost:3000
+20240819	19:20:09	8332e6bd-2efa-4f2a-8faf-5b621573bf87	GET	/users	http://localhost:3000
+20240819	19:21:54	4cc2d709-2916-410c-a52f-32bda9abd9fe	GET	/notes	http://localhost:3000
+20240819	19:22:01	d9894df8-82a3-410d-a606-7c1d9051f976	GET	/users	http://localhost:3000
+20240819	19:24:11	1dcae392-f433-4d3a-86b9-d16796de145f	GET	/users	http://localhost:3000
+20240826	14:41:17	ba011551-4f60-49f3-8162-c1be743457c4	GET	/users	http://localhost:3000
+20240826	14:41:48	e70134c5-f3b8-4a16-8fa4-47648d51a682	GET	/notes	http://localhost:3000
+20240826	14:41:54	8bf57f9b-ab1d-4500-a65e-993b74aceebe	GET	/users	http://localhost:3000
