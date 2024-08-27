@@ -1,3 +1,4 @@
 20240813	00:26:13	2351087b-0ed4-4d71-9709-f4d67a29f5b7	ReferenceError: User is not defined	POST	/notes	undefined
 20240813	00:28:13	c204f47a-59cc-4866-8323-e3dc298a9780	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "Mateusz" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
 20240813	00:39:29	6f0ff53b-6768-49e2-9bd5-5f9a85f255d6	TypeError: Note.findOneById is not a function	DELETE	/notes	undefined
+20240827	11:01:23	4393cd81-f66e-4e2d-9df9-73af73691496	ReferenceError: None is not defined	POST	/auth/logout	undefined
